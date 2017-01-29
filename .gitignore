@@ -1,6 +1,5 @@
 data/
 .idea/
 .ipynb_checkpoints/
-README.md
 Xy_raw.npz
 __pycache__/
