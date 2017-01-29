@@ -14,7 +14,7 @@ images, and one coadded of the three images.
 ### Structure
 
 The images for each example are packaged into a fits file. We use the astropy.io.fits
-package to parse these files. The fits files have an array of 6 HduObjects the last 5 are images.
+package to parse these files. The fits files have an array of 6 HduObjects where the last 5 are images.
 The header of the first image has 'RTYPE' which corresponds to the classification. It also has a
 'RFCVAL' real source score from 0.0 (bogus) to 1.0 (real).
 
