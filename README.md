@@ -7,7 +7,7 @@ Project.
 
 ## Data
 
-Current the data is private, but it will be public eventually. It consists of of 11x11 image
+Currently the data are private, but it will be public eventually. It consists of of 11x11 image
 patches taken in V-band. Each example contains 5 images: reference image, three difference
 images, and one coadded of the three images.
 
@@ -41,7 +41,7 @@ Other Python packages needed are:
 * numpy
 * scikit-learn
 
-Unpack the tar file into the data/ directory then run the cells in the XGBoost.ipynb Jupyter notebook.
+Unpack the tar file into the `data/` directory then run the cells in the XGBoost.ipynb Jupyter notebook.
 
 # Future Work
 
